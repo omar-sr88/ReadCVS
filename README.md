@@ -14,6 +14,7 @@ They were also not cumulative. Eg. if some construcion took 3 cycles to get read
 
 The cleanned data was feeded to Tableau and the result was displayed on: http://omarsr.wix.com/dadospac
 
+Data used: https://app.box.com/s/wdzclj2krr8gguipotxqkwcw4t4p4qln
 
 Currently rewriting the parse code in Ruby and propably going to use XML file to skip char errors (which were wuite common).
  
