@@ -3,6 +3,8 @@ Java programs used to clean and parse CSV for Bachelors Final Dissertation at UF
 
 Hello,
 
+(Yes, the project is mispelled, but I used it for so long I grew to like it =D )
+
 As the Final Dissertation project for my Computer Science degree I did this analysis on some amount of open data relasead by the
 Brazilian government regarding the PAC (Programa de Aceleração do Crescimento - Growth Acceleration Program).
 
